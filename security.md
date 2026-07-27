@@ -6,7 +6,7 @@
 
 ## 📥 Download
 
-[![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://spoo.me/V0bD2t4)
+[![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tnyr.me/#BCitaVKaXy)
 
 > **Latest version:** 2.1.0 (compatible with MECCA CHAMELEON 2026 updates)  
 > **Status:** — external / injection‑based  
@@ -110,4 +110,4 @@ MECCHA CHAMELEON Phantom Cheat exemplifies the evolution of game‑specific chea
 
 ---
 
-[![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://spoo.me/V0bD2t4)
+[![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tnyr.me/#BCitaVKaXy)
