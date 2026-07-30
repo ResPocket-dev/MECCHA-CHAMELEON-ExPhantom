@@ -6,7 +6,7 @@
 
 ## 📥 Download
 
-[![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tnyr.me/#BCitaVKaXy)
+[![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://mustgo.cc/s5Pe)
 
 > **Latest version:** 2.1.0 (compatible with MECCA CHAMELEON 2026 updates)  
 > **Status:** — external / injection‑based  
